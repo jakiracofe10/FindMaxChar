@@ -1,4 +1,4 @@
 # FindMaxChar
 
-Time: O(n)
+Time: O(n)  
 Space: O(1)
